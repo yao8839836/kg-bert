@@ -1,6 +1,7 @@
 # KG-BERT: BERT for Knowledge Graph Completion
 
-The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT).
+The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) and tested on Python 3.5+.
+
 
 ## Installing requirement packages
 
@@ -80,7 +81,7 @@ python3 run_bert_relation_prediction.py
 --eval_batch_size 512
 ```
 
-### 2. Link Prediction
+### 3. Link Prediction
 
 #### WN18RR
 
