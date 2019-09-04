@@ -2,7 +2,6 @@
 
 The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) and tested on Python 3.5+.
 
-
 ## Installing requirement packages
 
 ```bash
