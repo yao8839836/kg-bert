@@ -1,0 +1,46 @@
+measures	measures
+derivative_of	derivative of
+disrupts	disrupts
+prevents	prevents
+conceptually_related_to	conceptually related to
+manifestation_of	manifestation of
+diagnoses	diagnoses
+evaluation_of	evaluation of
+contains	contains
+co-occurs_with	co-occurs with
+conceptual_part_of	conceptual part of
+performs	performs
+degree_of	degree of
+interacts_with	interacts with
+uses	uses
+issue_in	issue in
+assesses_effect_of	assesses effect of
+property_of	property of
+precedes	precedes
+result_of	result of
+causes	causes
+practices	practices
+ingredient_of	ingredient of
+analyzes	analyzes
+surrounds	surrounds
+indicates	indicates
+associated_with	associated with
+affects	affects
+location_of	location of
+produces	produces
+process_of	process of
+measurement_of	measurement of
+connected_to	connected to
+carries_out	carries out
+method_of	method of
+adjacent_to	adjacent to
+occurs_in	occurs in
+consists_of	consists of
+interconnects	interconnects
+manages	manages
+complicates	complicates
+part_of	part of
+treats	treats
+isa	is a
+developmental_form_of	developmental form of
+exhibits	exhibits

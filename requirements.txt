@@ -1,0 +1,12 @@
+# PyTorch
+torch>=0.4.1
+# progress bars in model download and training scripts
+tqdm
+# Accessing files from S3 directly.
+boto3
+# Used for downloading models over HTTP
+requests
+# bert
+pytorch-pretrained-bert>=0.6.2
+# wikipedia
+wikipedia

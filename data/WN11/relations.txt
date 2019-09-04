@@ -1,0 +1,11 @@
+_similar_to
+_domain_region
+_part_of
+_type_of
+_synset_domain_topic
+_has_instance
+_member_holonym
+_subordinate_instance_of
+_domain_topic
+_has_part
+_member_meronym

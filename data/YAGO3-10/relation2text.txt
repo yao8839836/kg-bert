@@ -1,0 +1,37 @@
+isKnownFor	is known for
+isCitizenOf	is citizen of
+hasCurrency	has currency
+hasChild	has child
+dealsWith	deals with
+hasAcademicAdvisor	has academic advisor
+hasGender	has gender
+wroteMusicFor	wrote music for
+actedIn	acted in
+diedIn	died in
+hasCapital	has capital
+worksAt	works at
+livesIn	lives in
+isAffiliatedTo	is affiliated to
+hasMusicalRole	has musical role
+isLocatedIn	is located in
+happenedIn	happened in
+hasOfficialLanguage	has official language
+created	created
+hasWonPrize	has won prize
+influences	influences
+isPoliticianOf	is politician of
+isConnectedTo	is connected to
+owns	owns
+graduatedFrom	graduated from
+wasBornIn	was born in
+isLeaderOf	is leader of
+exports	exports
+isInterestedIn	is interested in
+participatedIn	participated in
+directed	directed
+imports	imports
+edited	edited
+hasNeighbor	has neighbor
+hasWebsite	has website
+isMarriedTo	is married to
+playsFor	plays for

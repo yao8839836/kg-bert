@@ -1,0 +1,11 @@
+_similar_to	similar to
+_domain_region	domain region
+_part_of	part of
+_type_of	type of
+_synset_domain_topic	synset domain topic
+_has_instance	has instance
+_member_holonym	member holonym
+_subordinate_instance_of	subordinate instance of
+_domain_topic	domain topic
+_has_part	has part
+_member_meronym	member meronym

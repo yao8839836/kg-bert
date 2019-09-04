@@ -1,0 +1,135 @@
+idea_or_concept	idea or concept
+virus	virus
+spatial_concept	spatial concept
+human_caused_phenomenon_or_process	human caused phenomenon or process
+human	human
+organ_or_tissue_function	organ or tissue function
+daily_or_recreational_activity	daily or recreational activity
+steroid	steroid
+biomedical_or_dental_material	biomedical or dental material
+vertebrate	vertebrate
+immunologic_factor	immunologic factor
+inorganic_chemical	inorganic chemical
+invertebrate	invertebrate
+embryonic_structure	embryonic structure
+functional_concept	functional concept
+amino_acid_peptide_or_protein	amino acid peptide or protein
+fish	fish
+reptile	reptile
+physical_object	physical object
+disease_or_syndrome	disease or syndrome
+biologically_active_substance	biologically active substance
+physiologic_function	physiologic function
+population_group	population group
+group	group
+body_space_or_junction	body space or junction
+bird	bird
+qualitative_concept	qualitative concept
+bacterium	bacterium
+cell_function	cell function
+enzyme	enzyme
+organophosphorus_compound	organophosphorus compound
+nucleic_acid_nucleoside_or_nucleotide	nucleic acid nucleoside or nucleotide
+cell	cell
+language	language
+antibiotic	antibiotic
+indicator_reagent_or_diagnostic_aid	indicator reagent or diagnostic aid
+fungus	fungus
+chemical_viewed_functionally	chemical viewed functionally
+rickettsia_or_chlamydia	rickettsia or chlamydia
+patient_or_disabled_group	patient or disabled group
+professional_society	professional society
+health_care_related_organization	health care related organization
+clinical_attribute	clinical attribute
+biomedical_occupation_or_discipline	biomedical occupation or discipline
+temporal_concept	temporal concept
+phenomenon_or_process	phenomenon or process
+family_group	family group
+chemical_viewed_structurally	chemical viewed structurally
+regulation_or_law	regulation or law
+acquired_abnormality	acquired abnormality
+experimental_model_of_disease	experimental model of disease
+professional_or_occupational_group	professional or occupational group
+injury_or_poisoning	injury or poisoning
+receptor	receptor
+drug_delivery_device	drug delivery device
+hazardous_or_poisonous_substance	hazardous or poisonous substance
+organism	organism
+neoplastic_process	neoplastic process
+mammal	mammal
+molecular_function	molecular function
+lipid	lipid
+group_attribute	group attribute
+nucleotide_sequence	nucleotide sequence
+biologic_function	biologic function
+chemical	chemical
+cell_component	cell component
+intellectual_product	intellectual product
+manufactured_object	manufactured object
+classification	classification
+geographic_area	geographic area
+vitamin	vitamin
+gene_or_genome	gene or genome
+self_help_or_relief_organization	self help or relief organization
+pathologic_function	pathologic function
+amphibian	amphibian
+laboratory_or_test_result	laboratory or test result
+organism_attribute	organism attribute
+cell_or_molecular_dysfunction	cell or molecular dysfunction
+therapeutic_or_preventive_procedure	therapeutic or preventive procedure
+sign_or_symptom	sign or symptom
+occupational_activity	occupational activity
+anatomical_abnormality	anatomical abnormality
+hormone	hormone
+fully_formed_anatomical_structure	fully formed anatomical structure
+educational_activity	educational activity
+quantitative_concept	quantitative concept
+tissue	tissue
+organism_function	organism function
+social_behavior	social behavior
+mental_or_behavioral_dysfunction	mental or behavioral dysfunction
+governmental_or_regulatory_activity	governmental or regulatory activity
+molecular_biology_research_technique	molecular biology research technique
+occupation_or_discipline	occupation or discipline
+conceptual_entity	conceptual entity
+body_location_or_region	body location or region
+pharmacologic_substance	pharmacologic substance
+clinical_drug	clinical drug
+food	food
+substance	substance
+genetic_function	genetic function
+congenital_abnormality	congenital abnormality
+medical_device	medical device
+carbohydrate	carbohydrate
+health_care_activity	health care activity
+eicosanoid	eicosanoid
+element_ion_or_isotope	element ion or isotope
+diagnostic_procedure	diagnostic procedure
+entity	entity
+event	event
+laboratory_procedure	laboratory procedure
+environmental_effect_of_humans	environmental effect of humans
+body_part_organ_or_organ_component	body part organ or organ component
+molecular_sequence	molecular sequence
+mental_process	mental process
+research_device	research device
+alga	alga
+natural_phenomenon_or_process	natural phenomenon or process
+anatomical_structure	anatomical structure
+animal	animal
+body_system	body system
+behavior	behavior
+carbohydrate_sequence	carbohydrate sequence
+archaeon	archaeon
+research_activity	research activity
+organization	organization
+individual_behavior	individual behavior
+organic_chemical	organic chemical
+finding	finding
+age_group	age group
+activity	activity
+machine_activity	machine activity
+plant	plant
+body_substance	body substance
+amino_acid_sequence	amino acid sequence
+neuroreactive_substance_or_biogenic_amine	neuroreactive substance or biogenic amine
