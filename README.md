@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 (2) entity2text.txt or entity2textlong.txt in each dataset contains entity textual sequences.
 
-(3) relation2text.txt in each dataset contains relation contains relation textual sequences.
+(3) relation2text.txt in each dataset contains relation textual sequences.
 
 ## Reproducing results
  
